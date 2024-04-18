@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **jtiosue/jtiosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- See my [CV](https://jtiosue.github.io/pages/media/cv.pdf)
+- See my [Google Scholar](https://scholar.google.com/citations?user=JXw0_fEAAAAJ&hl=en)
+- See my [arXiv](https://arxiv.org/search/?searchtype=author&query=Iosue+J+T)
